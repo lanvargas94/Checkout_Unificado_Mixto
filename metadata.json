@@ -1,0 +1,6 @@
+{
+  "name": "El Checkout Unificado con Pago Mixto",
+  "description": "MVP funcional del Checkout Unificado con Pago Mixto que permita al usuario pagar productos del carrito usando Puntos + Dinero en una misma transacción, respetando las reglas de negocio activas por categoría",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
